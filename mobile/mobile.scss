@@ -1,0 +1,29 @@
+.topic-list-main-link,
+.topic-list .main-link a {
+  font-size: 1.1rem;
+}
+
+.topic-list .num.posts-map button .number {
+  font-size: var(--font-down-2);
+}
+
+.btn-link.posts-map.badge-posts .d-icon-far-comment-alt {
+  height: 0.8em;
+  width: 0.8em;
+}
+
+.btn-link.posts-map.badge-posts .d-icon-far-heart {
+  height: 0.8em;
+  width: 0.8em;
+}
+
+div.right {
+  position: relative;
+}
+
+div.right .pull-right .posts-map {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: max-content;
+}
